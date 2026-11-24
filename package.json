@@ -1,0 +1,6 @@
+{
+  "name": "elite-store",
+  "private": true,
+  "type": "module",
+  "dependencies": { "@netlify/neon": "latest" }
+}
